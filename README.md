@@ -33,4 +33,26 @@ that's ever so easy
  ```
  ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/bypass.png?raw=true)
   ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/bypass-great-majority.png?raw=true)
+  
+  
 
+###########################################################
+# 0.0.1
+###########################################################
+
+Description
+
+    [encryption method] C++ simlpe
+    [encryption method] C With Assembler 
+    [encryption method] XOR
+
+###########################################################
+# 0.0.2
+###########################################################
+Improvement
+     I will add more encryption method
+     this C++ project is free
+     
+Backwards Incompatible Changes
+--------------------------------
+* more and more easy to more and more operate
