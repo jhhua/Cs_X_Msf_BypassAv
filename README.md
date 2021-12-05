@@ -26,3 +26,9 @@ okay,  choose one of as encryption method
 you can make a Windows executable for yourself 
  ```
 ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/encryption.png?raw=true)
+
+ ```
+look,
+that's ever so easy
+ ```
+ ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/bypass.png?raw=true)
