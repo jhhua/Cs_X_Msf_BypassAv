@@ -32,3 +32,5 @@ look,
 that's ever so easy
  ```
  ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/bypass.png?raw=true)
+ ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/bypass-great-majority.png?raw=true)
+
