@@ -11,5 +11,18 @@ English：
 Double click,Run this program
 and use your account to log in
 """
-![images](https://github.com/jhhua/KnowledgementSpider/blob/main/example/xzaliyun.jpg?raw=true)
-![image](https://user-images.githubusercontent.com/69577632/144739766-9d0435de-4849-482b-ad44-06efeb960dd4.png)
+![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/login.png?raw=true)
+
+
+"""
+Create a C-file using the metasploit or CobaltStrike
+like this...
+"""
+![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/image.png?raw=true)
+
+
+"""
+okay,  choose one of as encryption method
+you can make a Windows executable for yourself 
+"""
+![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/encryption.png?raw=true)
