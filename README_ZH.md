@@ -28,9 +28,9 @@ English：
 ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/encryption.png?raw=true)
 
  ```
-look,
-看
-如此非常的简单
+简单粗暴
+易于使用
+
  ```
  ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/bypass.png?raw=true)
  ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/bypass-great-majority.png?raw=true)
