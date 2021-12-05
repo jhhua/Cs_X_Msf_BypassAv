@@ -49,10 +49,11 @@ Description
 ###########################################################
 # 0.0.2
 ###########################################################
-Improvement
+```
+Improvement(In development..........)
      I will add more encryption method
      this C++ project is free
-     
+```
 Backwards Incompatible Changes
 --------------------------------
 * more and more easy to more and more operate
