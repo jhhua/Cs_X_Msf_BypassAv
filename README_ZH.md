@@ -5,31 +5,32 @@ English：
 中文：
 ![README_ZH.md](https://github.com/jhhua/CsOrMsfBypassAv/edit/main/README_ZH.md)  
 
-# I wrote a C++ project for metasploit or CobaltStrike
-## How to use
+# 一个C++项目 作用于 metasploit 和 CobaltStrike
+## 如何使用
  ```
-Double click,Run this program
-and use your account to log in
+双击运行
+使用账户登录
  ```
 ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/login.png?raw=true)
 
 
  ```
-Create a C-file using the metasploit or CobaltStrike
-like this...
+创建C文件作用于 metasploit 和 CobaltStrike
+如下
  ```
 ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/image.png?raw=true)
 
 
  ```
-okay,  choose one of as encryption method
-you can make a Windows executable for yourself 
+选择你的加密方式
+然后创建你的windows远程木马
  ```
 ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/encryption.png?raw=true)
 
  ```
 look,
-that's ever so easy
+看
+如此非常的简单
  ```
  ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/bypass.png?raw=true)
  ![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/bypass-great-majority.png?raw=true)
